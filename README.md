@@ -12,4 +12,5 @@ Para baixar as dependencias. E para subir aplicação vamos executar:
 
 ### `yarn start`
 
+![image](https://user-images.githubusercontent.com/49419128/210687484-5c2755a3-9268-426a-81cc-11867a712109.png)
 
